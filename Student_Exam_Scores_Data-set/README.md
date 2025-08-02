@@ -71,6 +71,16 @@ Prerequisites
 Python 3.12+
 pandas
 
+Running the Code
+Place the raw CSV file in your working directory.
+
+Run the Jupyter notebook or execute the Python code in your environment.
+
+On completion, two cleaned files are generated:
+
+Cleaned_csv_data.csv
+Cleaned_excel_data.xlsx
+
 🧹 Key Outcomes
 Reduced data from 30,641 to 22,343 rows of complete and reliable records.
 
@@ -91,3 +101,4 @@ Notebook environment: Jupyter, pandas v2.2.3
 
 📎 License
 You are free to use, modify, and share this code for educational, research, or commercial purposes. Attribution appreciated!
+
