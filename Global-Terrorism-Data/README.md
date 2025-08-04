@@ -1,4 +1,5 @@
 Global Terrorism Data Cleaning & Preprocessing
+
 📊 Project Overview
 The Global Terrorism Database (GTD) contains detailed information on terrorist events from 1970 to 2020, including location, tactics, targets, casualties, responsible parties, and more (over 200,000 rows and 100+ columns). However, the raw data is messy, full of missing values, inconsistent categories, mixed data types, and structural quirks—making direct analysis difficult and unreliable.
 This project delivers:
@@ -80,3 +81,4 @@ Original Data Source: National Consortium for the Study of Terrorism and Respons
 Data cleaning performed by: [Sabin Shah]
 Contact: [sabinshah619@gmail.com]
 Notebook Environment: Jupyter, pandas v2.2.3
+
